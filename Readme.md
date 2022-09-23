@@ -1,5 +1,4 @@
 <h1>My SDC Journal</h1>
-<h2>Lessons Learned</h2>
 <span>I chose to study on front end perfomance, specifically images. While I do feel there is plenty to learn in the area, a lot of performance, from my experience, is handled by caching.
 <br>Anyway, here are my findings.
 </span><br></br>
